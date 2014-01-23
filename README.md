@@ -1,4 +1,4 @@
 EncontroAppsScript
 ==================
 
-A magica de Google Apps 
+A magia de Google Apps 
